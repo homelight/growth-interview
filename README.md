@@ -14,7 +14,7 @@ User stories:
 
 Notes: 
 
-- You can style the app however you want with or without css frameworks.
+- You can style the app however you want with or without css frameworks. But make sure is something that looks pretty and could be considered usable by a real user.
 - You are free to architecture the app and use any gems that you want. The only hard requirement is that the app uses rails in the backend and react on the frontend
 - We will look for things like performance, tests, code organization and quality. 
 
