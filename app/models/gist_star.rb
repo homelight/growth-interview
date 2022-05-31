@@ -1,0 +1,2 @@
+class GistStar < ApplicationRecord
+end
