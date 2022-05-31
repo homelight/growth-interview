@@ -23,3 +23,9 @@ Instructions:
 1. Fork this Repo and build your solution there.
 2. Once you have the solution ready send us an email with the link to your forked repo.
 3. We will get back to you with feedback. 
+
+Ruby 2.5.8
+Rails 6.1.3
+webpacker
+jbuilder
+mysql2
