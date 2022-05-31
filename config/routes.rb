@@ -3,4 +3,8 @@ Rails.application.routes.draw do
   root 'gists#index'
 
   resources :gists
+
+  namespace :api do
+    resources :stars, only: [:index, :create]
+  end
 end
