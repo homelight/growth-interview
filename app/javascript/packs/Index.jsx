@@ -7,11 +7,11 @@ import ReactDOM from 'react-dom'
 import PropTypes from 'prop-types'
 
 const Hello = props => (
-  <div>Hello {props.name}!</div>
+  <div>HelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHello {props.name}!</div>
 )
 
 Hello.defaultProps = {
-  name: 'David'
+  name: 'DavidDavid'
 }
 
 Hello.propTypes = {
