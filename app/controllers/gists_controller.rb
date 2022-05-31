@@ -1,4 +1,4 @@
-class GistController < ApplicationController
+class GistsController < ApplicationController
   PUBLIC_GISTS_URL = 'https://api.github.com/gists/public'
 
   def index
