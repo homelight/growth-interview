@@ -29,3 +29,4 @@ Rails 6.1.3
 webpacker
 jbuilder
 mysql2
+rest-client
